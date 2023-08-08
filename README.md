@@ -8,4 +8,3 @@
 - Maxime: local minima vs global minima
 - Fiona: grid serach (1D)
 - José: gradient descent (1D)
-- Paul: multi-dimensional optimization (day 1 course)
